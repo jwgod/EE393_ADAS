@@ -3,18 +3,18 @@ systems for safety and better driving. Most safety systems are designed to avoid
 by alerting the driver to potential problems, or to avoid collisions by implementing safeguards and taking 
 over control of the vehicle. In other words, ADAS features increases road and vehicle safety.
 Some of the most common ADAS features include the adaptive cruise control, automate braking, lane departure
-warning, blind spot detection.
+warning and blind spot detection.
 
 ADAS relies on inputs from several sensors including automotive imaging such as using LiDAR, radar, image 
 processing and computer vision. The data collected are then processed with special computer algorithms which 
 translate to instructions that are fed into the vehicle controllers. Due to the high cost of devices and 
 equipment, ADAS systems were mostly installed on luxury vehicles. However, thanks to government calls for 
 new vehicle safety standards, most of the new vehicles now come with standard ADAS features which spurs the 
-growth of consumer interest in cars that can avoid accidents. For example, on March 31, 2014, the US Department
+growth of consumer interest in cars that can avoid accidents. For example, on March 31 2014, the US Department
 of Transportation’s National Highway Traffic Safety Administration (NHTSA) announced that it will require all
 new vehicles to have rear view cameras by May 2018.
 
 Overall, ADAS is one of the fastest growing segments in the automotive industry primarily due to the advancement 
 of technology as well as government legislations on higher safety requirements for new production vehicle. If 
-more supports were provided to allow further growth of ADAS, the rate of accidents will be drastically reduced.
-This provides safer road conditions.
+more supports were provided to allow further growth of ADAS, the rate of accidents will be drastically reduced
+which provides safer road conditions.
